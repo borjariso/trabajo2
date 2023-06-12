@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 50px;
+}
+p {
+color: #454545;
+font-family: monospace;
+}
+a {
+    color: #0c99bd;
+    text-decoration: none;
+}
+span {
+    font-family:cursive;
+}
+#segundo {
+    font-family: fantasy;
+}
+#tercero {
+    font-family: cursive;
+}
+#cuarto {
+    font-family: cursive;
+}
+#quinto {
+    font-family: fantasy;
+
+}
